@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 [image2]: ./home/workspace/sim-training-data/IMG/center_2020_02_25_07_41_08_443.jpg "Recovery Image 1"
 [image3]: ./home/workspace/sim-training-data/IMG/center_2020_02_25_07_41_09_011.jpg "Recovery Image 2"
 [image4]: ./home/workspace/sim-training-data/IMG/center_2020_02_25_07_41_09_745.jpg "Recovery Image 3"
-[image5]: ./home/workspace/sim-training-data/IMG/center_2020_02_25_07_41_08_443 - flipped.jpg "Flipped Image"
+[image5]: ./home/workspace/sim-training-data/IMG/center_2020_02_25_07_41_08_443-flipped.jpg "Flipped Image"
 
 
 
